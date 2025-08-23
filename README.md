@@ -2,5 +2,5 @@
 
 NeetCode is an online platform providing a curated list of 150 problems from Leetcode to practice writing algorithms.
 
-04.07.2025 - Finished "Arrays & Hashing"
+04.07.2025 - Finished "Arrays & Hashing" '\n'
 23.08.2025 - Finished "Stack"
