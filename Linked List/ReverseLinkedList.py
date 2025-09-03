@@ -10,7 +10,7 @@ class ListNode:
 
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        prev = None # Creating a new linked list 
+        prev = None
         curr = head
         
         # Going through the entire linked list
