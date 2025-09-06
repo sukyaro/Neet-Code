@@ -1,6 +1,6 @@
 # Neet Code Solutions Repository
 
-A curated collection of **algorithmic problem solutions**, organised by topic and date—designed to track progress, showcase your coding journey, and serve as a resource for others preparing for technical interviews or enhancing their problem-solving skills.
+A curated collection of **algorithmic problem solutions**, organised by topic and date—designed to track progress, showcase my coding journey.
 
 ---
 
