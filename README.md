@@ -12,8 +12,8 @@ A curated collection of **algorithmic problem solutions**, organised by topic an
 | 23.08.2025  | Stack                |  Completed |
 | 25.08.2025  | Two Pointers         |  Completed |
 | 29.08.2025  | Binary Search        |  Completed |
+|    None     | Linked Lists         |    Afoot   |
 
-_Currently exploring new topics—stay tuned!_
 
 ---
 
@@ -23,8 +23,8 @@ This repository is organised to make content easily navigable:
 
 ```
 /topic-name/
-├── problem1.py
-├── problem2.py
+├── NameOfTheProblem1.py
+├── NameOfTheProblem2.py
 └── ...
 README.md
 ```
@@ -38,6 +38,5 @@ README.md
 
 - **Structured Learning:** Progressing through topics in a systematic, milestone-oriented fashion.
 - **Self-Assessment:** Dates tracked for motivation, reflection, and portfolio purposes.
-- **Shareable Resource:** Perfect whether you're starting out, preparing for interviews, or want clean, well-organised references.
 
 ---
