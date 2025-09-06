@@ -1,11 +1,43 @@
-# Neet-Code
+# Neet Code Solutions Repository
 
-NeetCode is an online platform providing a curated list of 150 problems from Leetcode to practice writing algorithms.
+A curated collection of **algorithmic problem solutions**, organised by topic and date—designed to track progress, showcase your coding journey, and serve as a resource for others preparing for technical interviews or enhancing their problem-solving skills.
 
-04.07.2025 - Finished "Arrays & Hashing" 
+---
 
-23.08.2025 - Finished "Stack"
+##  Progress So Far
 
-25.08.2025 - Finished "Two Pointers"
+| Date        | Topic                | Status     |
+|-------------|---------------------|------------|
+| 04.07.2025  | Arrays & Hashing     |  Completed |
+| 23.08.2025  | Stack                |  Completed |
+| 25.08.2025  | Two Pointers         |  Completed |
+| 29.08.2025  | Binary Search        |  Completed |
 
-29.08.2025 - Finished "Binary Search"
+_Currently exploring new topics—stay tuned!_
+
+---
+
+##  Structure & Organization
+
+This repository is organised to make content easily navigable:
+
+```
+/topic-name/
+├── problem1.py
+├── problem2.py
+└── ...
+README.md
+```
+
+- Each **topic** (e.g., `arrays_and_hashing`, `stack`) houses related problem solution files.
+- Solutions are named clearly to reflect the problem's intention or description.
+
+---
+
+## ⭐ Why This Project Matters
+
+- **Structured Learning:** Progressing through topics in a systematic, milestone-oriented fashion.
+- **Self-Assessment:** Dates tracked for motivation, reflection, and portfolio purposes.
+- **Shareable Resource:** Perfect whether you're starting out, preparing for interviews, or want clean, well-organised references.
+
+---
