@@ -12,8 +12,8 @@ A curated collection of **algorithmic problem solutions**, organised by topic an
 | 23.08.2025  | Stack                |  Completed |
 | 25.08.2025  | Two Pointers         |  Completed |
 | 29.08.2025  | Binary Search        |  Completed |
-|    None     | Linked Lists         |    Afoot   |
-
+| 07.09.2025  | Linked Lists         |  Completed |
+|    None     | Sliding Window       |  Afoot     |
 
 ---
 
